@@ -2,6 +2,7 @@
 Registration and Login with Spring Boot, Spring Security, Thymeleaf, Hibernate and MySQL
 
 Reference: https://github.com/RameshMF/registration-login-spring-boot-security-thymeleaf-hibernate
+
 Video: https://youtu.be/Hk70e7KR290
 
 To test the app, follow these steps:
